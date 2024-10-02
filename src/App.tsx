@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckboxWithLabel } from './components/Checkbox';
+import { CheckboxWithLabel } from './components';
 
 const App: React.FC = (): JSX.Element => (
   <div>

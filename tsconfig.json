@@ -1,33 +1,24 @@
 {
-  "compilerOptions": {
-    "lib": [
-      "dom",
-      "esnext"
-    ],
-    "esModuleInterop": true,
-    "outDir": "./dist/",
-    "sourceMap": true,
-    "strict": true,
-    "noImplicitReturns": true,
-    "noImplicitAny": true,
-    "module": "ESNext",
-    "allowSyntheticDefaultImports": true,
-    "resolveJsonModule": true,
-    "moduleResolution": "node",
-    "target": "ESNext",
-    "allowJs": true,
-    "jsx": "react",
-    "baseUrl": "src",
-    "paths": {
-      "@/*": [
-        "*"
-      ]
-    }
-  },
-  "include": [
-    "./src/**/*"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+	"compilerOptions": {
+		"lib": ["dom", "esnext"],
+		"esModuleInterop": true,
+		"outDir": "./dist/",
+		"sourceMap": true,
+		"strict": true,
+		"noImplicitReturns": true,
+		"noImplicitAny": true,
+		"module": "ESNext",
+		"allowSyntheticDefaultImports": true,
+		"resolveJsonModule": true,
+		"moduleResolution": "node",
+		"target": "ESNext",
+		"allowJs": true,
+		"jsx": "react",
+		"baseUrl": "src",
+		"paths": {
+			"@/*": ["*"]
+		}
+	},
+	"include": ["./src/**/*"],
+	"exclude": ["node_modules"]
 }
