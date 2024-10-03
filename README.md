@@ -1,3 +1,3 @@
-### NO BABAEL!
+### NO BABEL!
 
 React Webpack Typescript Jest
