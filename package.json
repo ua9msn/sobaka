@@ -2,7 +2,8 @@
 	"name": "webpack-react-ts-template",
 	"version": "1.0.0",
 	"main": "index.js",
-	"author": "Artyom Ulanchik <artyom.u@outlook.com>",
+	"author": "Sergey Balykov <ua9msn@gmail.com>",
+	"descrption": "Thanks to Artyom Ulanchik <artyom.u@outlook.com> for the starter template that i've taken and modified"
 	"license": "ISC",
 	"scripts": {
 		"clean": "rm -rf dist/",
